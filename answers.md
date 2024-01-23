@@ -10,3 +10,4 @@ Answer 9: On branch main Your branch is up to date with 'origin/main'. Changes t
 Answer 10: The changes I made are not reflected on the local copy. 
 Answer 11: It says it can't push because the "tip of the current branch is behind its remote counterpart" 
 Answer 12: The local copy and the online copy now match.
+Answer 13: It showed ".  ..  .git  .gitignore  README.md"
